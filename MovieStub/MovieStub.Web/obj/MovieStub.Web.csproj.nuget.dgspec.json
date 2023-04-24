@@ -1,0 +1,305 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Web\\MovieStub.Web.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj",
+        "projectName": "MovieStub.Domain",
+        "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj",
+        "packagesPath": "C:\\Users\\ivili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ivili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Repository\\MovieStub.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Repository\\MovieStub.Repository.csproj",
+        "projectName": "MovieStub.Repository",
+        "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Repository\\MovieStub.Repository.csproj",
+        "packagesPath": "C:\\Users\\ivili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ivili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj": {
+                "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Service\\MovieStub.Service.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Service\\MovieStub.Service.csproj",
+        "projectName": "MovieStub.Service",
+        "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Service\\MovieStub.Service.csproj",
+        "packagesPath": "C:\\Users\\ivili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Service\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ivili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj": {
+                "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj"
+              },
+              "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Repository\\MovieStub.Repository.csproj": {
+                "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Repository\\MovieStub.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Web\\MovieStub.Web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Web\\MovieStub.Web.csproj",
+        "projectName": "MovieStub.Web",
+        "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Web\\MovieStub.Web.csproj",
+        "packagesPath": "C:\\Users\\ivili\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Web\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\ivili\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj": {
+                "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Domain\\MovieStub.Domain.csproj"
+              },
+              "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Service\\MovieStub.Service.csproj": {
+                "projectPath": "C:\\Users\\ivili\\Desktop\\Apps and Tests\\Integrated Systems\\MovieStub\\MovieStub\\MovieStub\\MovieStub.Service\\MovieStub.Service.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.21, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.14, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.14.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.410\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

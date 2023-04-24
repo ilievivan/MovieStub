@@ -1,0 +1,65 @@
+﻿@using Microsoft.Extensions.Options
+@model MovieStub.Domain.DTO.ShoppingCartDto
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<div class="container">
+
+
+    @*<div class="row m-4">
+        <a asp-controller="ShoppingCard" asp-action="Order" class="btn btn-info">Order Now</a>
+    </div>*@
+
+    <div class="row m-4">
+        <table class="table">
+            <thead class="thead-dark">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Movie Poster</th>
+                    <th scope="col">Movie Name</th>
+                    <th scope="col">No. of Tickets</th>
+                    <th scope="col">Tickets Price</th>
+                    <th></th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Movies.Count == 0)
+                {
+                    <tr>
+                        <td colspan="6">No active Movies</td>
+                    </tr>
+                }
+                else
+                {
+                    @for (int i = 0; i < Model.Movies.Count; i++)
+                    {
+                        var item = Model.Movies[i];
+
+                        <tr>
+                            <th scope="row">@(i + 1)</th>
+                            <th scope="row"> <img src=@item.CurrnetMovie.MovieImage style="max-height: 200px"></th>
+                            <td>@item.CurrnetMovie.MovieName</td>
+                            <td>@item.Quantity</td>
+                            <td>$@item.CurrnetMovie.MoviePrice</td>
+                            <td><a asp-controller="ShoppingCard" asp-action="DeleteFromShoppingCart" asp-route-id="@item.MovieId" class="btn btn-danger">Delete From ShoppingCart</a></td>
+                        </tr>
+                    }
+                }
+            </tbody>
+            <tfoot class="thead-dark">
+                <tr>
+                    <th scope="col">Total Price:</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                    <th scope="col">$@Model.TotalPrice</th>
+                    <th scope="col"><a asp-controller="ShoppingCard" asp-action="Order" class="btn btn-info">Buy Now</a></th>
+                </tr>
+            </tfoot>
+        </table>
+    </div>
+
+</div>

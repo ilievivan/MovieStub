@@ -1,0 +1,60 @@
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.deps.json
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.dll
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.dll
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.pdb
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.pdb
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.AssemblyReference.cache
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfoInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfo.cs
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CoreCompileInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CopyComplete
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\HomeWork\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.deps.json
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.AssemblyReference.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfoInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfo.cs
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CoreCompileInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CopyComplete
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrirani Sistemi\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.deps.json
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.AssemblyReference.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfoInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfo.cs
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CoreCompileInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CopyComplete
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\IS Domasno\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.deps.json
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Service.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Domain.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\bin\Debug\netcoreapp3.1\MovieStub.Repository.pdb
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.AssemblyReference.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfoInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.AssemblyInfo.cs
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CoreCompileInputs.cache
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.csproj.CopyComplete
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.dll
+C:\Users\ivili\Desktop\Apps and Tests\Integrated Systems\MovieStub\MovieStub\MovieStub\MovieStub.Service\obj\Debug\netcoreapp3.1\MovieStub.Service.pdb
